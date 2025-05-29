@@ -1,7 +1,7 @@
-💫 About Me:
--Hi I'm a Computer science student👩‍💻<br>- Working with Data science📈<br>
--Learning Python libraries and statistics📊<br>
-- Looking to collaborate on projects!
+ About Me ✨
+ 
+-Hi I'm a data analyst👾<br>- Working with Data science<br>
+-Learning Python libraries and statistics📊<br>- Looking to collaborate on projects!
 
 
 # 💻 Tech Stack:
