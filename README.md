@@ -1,6 +1,6 @@
  About Me ✨
  
--Hi I'm a data analyst👾<br>- Working with Data science<br>
+-Hi I'm a cs student😭<br>- Working with Data science<br>
 -Learning Python libraries and statistics📊<br>- Looking to collaborate on projects!
 
 
