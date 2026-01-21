@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hey there! </h1>
-<h3 align="center">🚀 CS Student | 💻 Coder|
-<img align="right" alt= width="400" src="https://github.com/clins8/clins8/blob/main/Cillian.gif">
-  <i>"Debugging life "</i>
-</p>
+<h1 align="center">👋 Hey there!</h1>
+<h3 align="center">🚀 CS Student | 💻 Web Developer |</h3>
+
+<p align="center">
+  <i>"Debugging 👾"</i>
+</p> src="https://github.com/clins8/clins8/blob/main/Cillian.gif">
 
 <br>
 
