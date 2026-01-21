@@ -3,7 +3,7 @@
 
 <p align="center">
   <i>"Debugging 👾"</i>
-</p> src="https://github.com/clins8/clins8/blob/main/Cillian.gif">
+</p> 
 
 <br>
 
