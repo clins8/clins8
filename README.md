@@ -5,6 +5,10 @@
   <i>"Debugging 👾"</i>
 </p> 
 
+<div align="center">
+  <img src="Cillian.gif" alt="Cillian" width="400"/>
+</div>
+
 <br>
 
 ## 🛠️ **Languages & Tools**
