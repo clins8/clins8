@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! </h1>
 <h3 align="center">🚀 CS Student | 💻 Coder|
-![logo](https://github.com/clins8/clins8/blob/main/Cillian.gif)
+<img align="right" alt="coding" width="400" src="https://github.com/clins8/clins8/blob/main/Cillian.gif">
   <i>"Debugging life "</i>
 </p>
 
