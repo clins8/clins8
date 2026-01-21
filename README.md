@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Cillian.gif" alt="Cillian" width="500"/>
+  <img src="Cillian.gif" alt="Animated GIF of Cillian Murphy" width="500"/>
 </div>
 
 <h1 align="center">👋 Hey there!</h1>
