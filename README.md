@@ -19,12 +19,6 @@
 
 <br>
 
-![Streak](https://streak-stats.demolab.com?user=Clins8&theme=dark&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF)
-  
-</div>
-
-<br>
-
 ## 📫 **Connect With Me**
 
 <div align="center">
