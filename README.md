@@ -5,7 +5,7 @@
 <br>
 </p>
 <br>
-## GitHub Stats
+**## GitHub Stats**
 
 <div align="center">
   
