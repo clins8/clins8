@@ -2,8 +2,10 @@
   <img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
   <br/>
   <em>Code. Debug. Repeat.</em>
-
-</p>## 📊 **GitHub Stats**
+<br>
+</p>
+<br>
+## 📊 **GitHub Stats**
 
 <div align="center">
   
