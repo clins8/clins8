@@ -1,4 +1,9 @@
-## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://media4.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
+  <br/>
+  <em>Code. Debug. Repeat.</em>
+
+</p>## 📊 **GitHub Stats**
 
 <div align="center">
   
