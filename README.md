@@ -7,9 +7,14 @@
 <br>
 
 ## **GitHub Stats**
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clins8&show_icons=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clins8&show_icons=true&theme=tokyonight&hide_border=true)
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=clins8)
 
+## 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clins8&layout=compact)
 ## 📫 **Connect With Me**
 
 <div align="center">
