@@ -8,13 +8,7 @@
 
 ## **GitHub Stats**
 
-<div align="center">
-  
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Clins8&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&hide_title=false) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clins8&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9&langs_count=6) |
-| :---: | :---: |
-| **Activity** | **Top Languages** |
-
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clins8&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 📫 **Connect With Me**
 
